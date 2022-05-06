@@ -30,6 +30,10 @@ http://download.tensorflow.org/example_images/flower_photos.tgz
 
 https://github.com/google-research/vision_transformer
 
+本项目使用的pytorch版本的权重下载，其他的权重在vit_model.py上有下载链接
+
+https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-vitjx/jx_vit_base_patch16_224_in21k-e5005f0a.pth
+
 个人关于ViT解读的文章
 
 https://zhuanlan.zhihu.com/p/461077472
